@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/lmfn54opoljpq1to?svg=true)](https://ci.appveyor.com/project/Negrustin/deliverycard)
+[![Build status](https://ci.appveyor.com/api/projects/status/jc8j5e2m2taoa5kg?svg=true)](https://ci.appveyor.com/project/Negrustin/deliverycardtestmode)
